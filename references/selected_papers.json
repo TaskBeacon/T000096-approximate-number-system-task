@@ -1,0 +1,44 @@
+[
+  {
+    "id": "W2014481741",
+    "title": "Individual differences in non-verbal number acuity correlate with maths achievement",
+    "authors": ["Justin Halberda", "Michele M. M. Mazzocco", "Lisa Feigenson"],
+    "year": 2008,
+    "journal": "Nature",
+    "doi_or_url": "https://doi.org/10.1038/nature07246",
+    "citation_count": 1485,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": ["primary_protocol", "trial_workflow", "ratios", "numerosity_range", "stimulus_duration", "visual_control", "practice_and_test_counts"],
+    "parameter_bindings": {"timing.dot_duration": 0.2, "task.ratios": ["1:2", "3:4", "5:6", "7:8"], "task.numerosity_range": [5, 16], "task.practice_trials_per_block": 10, "task.test_trials_per_block": 40, "task.total_blocks": 2},
+    "notes": "Public author-hosted full text at https://panamath.org/papers/HalberdaEtAl2008Nature.pdf; citation count recorded from OpenAlex on 2026-08-23."
+  },
+  {
+    "id": "W1967654316",
+    "title": "Number sense across the lifespan as revealed by a massive Internet-based sample",
+    "authors": ["Justin Halberda", "Ryan Ly", "Jeremy B. Wilmer", "Daniel Q. Naiman", "Laura Germine"],
+    "year": 2012,
+    "journal": "Proceedings of the National Academy of Sciences",
+    "doi_or_url": "https://doi.org/10.1073/pnas.1200196109",
+    "citation_count": 489,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": ["replication_support", "stimulus_duration", "response_window", "dependent_measures"],
+    "parameter_bindings": {"timing.dot_duration": 0.2, "timing.response_window": 4.0, "task.dependent_measures": ["accuracy", "reaction_time", "weber_fraction"]},
+    "notes": "Open full text in PubMed Central (PMCID PMC3396479); citation count recorded from OpenAlex on 2026-08-23."
+  },
+  {
+    "id": "W639002133",
+    "title": "Modeling the approximate number system to quantify the contribution of visual stimulus features",
+    "authors": ["Nicholas K. DeWind", "Geoffrey K. Adams", "Michael L. Platt", "Elizabeth M. Brannon"],
+    "year": 2015,
+    "journal": "Cognition",
+    "doi_or_url": "https://doi.org/10.1016/j.cognition.2015.05.016",
+    "citation_count": 240,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": ["visual_feature_control", "stimulus_generation", "analysis_interpretation"],
+    "parameter_bindings": {"task.visual_control_modes": ["equal_average_size", "equal_total_area"]},
+    "notes": "Open full text in PubMed Central (PMCID PMC4831213); citation count recorded from OpenAlex on 2026-08-23."
+  }
+]

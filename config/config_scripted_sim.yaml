@@ -1,0 +1,33 @@
+subinfo_fields: [{name: subject_id, type: int, constraints: {min: 101, max: 999, digits: 3}}]
+subinfo_mapping: {subject_id: 被试编号, Participant Information: 被试信息, registration_failed: 登记失败, registration_successful: 登记成功, invalid_input: "{field} 输入无效"}
+window: {size: [1280, 800], units: deg, screen: 0, bg_color: "#707070", fullscreen: false, monitor_width_cm: 35.5, monitor_distance_cm: 57}
+task: {task_name: Approximate Number System, save_path: ./outputs/sim, language: Chinese, voice_name: zh-CN-YunyangNeural, voice_enabled: false, total_blocks: 2, practice_trials_per_block: 4, test_trials_per_block: 8, total_trials: 24, trial_per_block: 12, conditions: [ratio_1_2, ratio_3_4, ratio_5_6, ratio_7_8], condition_weights: null, ratios: ["1:2", "3:4", "5:6", "7:8"], numerosity_range: [5, 16], visual_control_modes: [equal_average_size, equal_total_area], color_keys: {yellow: f, blue: j}, color_labels: {yellow: 黄色, blue: 蓝色}, key_list: [f, j, space], seed_mode: same_within_sub, overall_seed: 96096, plan_seed: 96096, delta: 0.0, aperture_radius_deg: 7.0, dot_diameter_deg: 0.65, min_gap_deg: 0.10, blue_color: "#2196F3", yellow_color: "#FFEB3B", phase_order: [instruction, block_instruction, fixation, dot_comparison, post_display_response, practice_feedback, iti, block_break, good_bye]}
+timing: {fixation_duration: 0.5, dot_duration: 0.2, response_window: 4.0, practice_feedback_duration: 0.5, iti_duration: 0.5}
+stimuli:
+  instruction: {type: text, font: SimHei, text: "每次会短暂出现混合在一起的蓝色和黄色圆点。请判断哪种颜色的圆点更多，不要逐个数点。\n\n黄色更多：按 F 键\n蓝色更多：按 J 键\n\n点阵只显示 200 毫秒；消失后仍可作答。请尽快且准确地判断。\n\n按空格键继续。", color: white, height: 0.72, wrapWidth: 25, pos: [0, 0]}
+  block_instruction: {type: text, font: SimHei, text: "区组 {block_number} / {total_blocks}\n\n先完成 {practice_trials} 次带反馈练习，再完成 {test_trials} 次正式判断。\n\nF = 黄色更多    J = 蓝色更多\n\n按空格键开始。", color: white, height: 0.76, wrapWidth: 25, pos: [0, 0]}
+  fixation: {type: text, font: SimHei, text: "+", color: white, height: 0.85, pos: [0, 0]}
+  blank: {type: rect, width: 40, height: 30, fillColor: "#707070", lineColor: "#707070", pos: [0, 0]}
+  practice_correct: {type: text, font: SimHei, text: "正确", color: "#8BC34A", height: 0.90, pos: [0, 0]}
+  practice_incorrect: {type: text, font: SimHei, text: "不正确\n正确答案：{correct_color}", color: "#FFB74D", height: 0.76, wrapWidth: 20, pos: [0, 0]}
+  practice_timeout: {type: text, font: SimHei, text: "未作答\n请在 4 秒内判断", color: "#FFE082", height: 0.76, wrapWidth: 20, pos: [0, 0]}
+  block_break: {type: text, font: SimHei, text: "区组 {block_number} / {total_blocks} 完成\n\n正式试次正确率：{accuracy}\n正确试次平均反应时：{mean_rt}\n\n按空格键继续。", color: white, height: 0.72, wrapWidth: 24, pos: [0, 0]}
+  good_bye: {type: text, font: SimHei, text: "任务完成\n\n作答率：{response_rate}\n总体正确率：{accuracy}\n正确试次平均反应时：{mean_rt}\n1:2 正确率：{easy_accuracy}\n7:8 正确率：{hard_accuracy}\n\n按空格键退出。", color: white, height: 0.68, wrapWidth: 24, pos: [0, 0]}
+triggers:
+  map: {experiment_start: 1, block_start: 10, fixation: 20, dots_1_2_blue_size: 31, dots_1_2_blue_area: 32, dots_1_2_yellow_size: 33, dots_1_2_yellow_area: 34, dots_3_4_blue_size: 35, dots_3_4_blue_area: 36, dots_3_4_yellow_size: 37, dots_3_4_yellow_area: 38, dots_5_6_blue_size: 39, dots_5_6_blue_area: 40, dots_5_6_yellow_size: 41, dots_5_6_yellow_area: 42, dots_7_8_blue_size: 43, dots_7_8_blue_area: 44, dots_7_8_yellow_size: 45, dots_7_8_yellow_area: 46, yellow_response: 51, blue_response: 52, response_timeout: 53, post_display_response: 60, practice_correct: 71, practice_incorrect: 72, iti: 80, block_end: 90, experiment_end: 99}
+  driver: {type: serial_url, url: "loop://", baudrate: 115200, timeout: 1}
+  policy: {strict: false}
+  timing: {post_delay_s: 0.001}
+sim:
+  output_dir: outputs/sim
+  seed: 96096
+  participant_id: sim096
+  session_id: sub-sim096_task-approximate-number-system-task_seed96096
+  log_path: outputs/sim/sub-sim096_task-approximate-number-system-task_seed96096_sim_events.jsonl
+  policy: warn
+  default_rt_s: 0.08
+  clamp_rt: false
+  enable_scaling: true
+  timing_scale: 0.05
+  min_frames: 1
+  responder: {type: scripted, kwargs: {key: f, rt_s: 0.08}}

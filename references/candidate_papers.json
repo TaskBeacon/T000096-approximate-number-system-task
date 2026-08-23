@@ -1,0 +1,1447 @@
+[
+  {
+    "id": "W2160378127",
+    "title": "MAFFT Multiple Sequence Alignment Software Version 7: Improvements in Performance and Usability",
+    "authors": [
+      "Kazutaka Katoh",
+      "Daron M. Standley"
+    ],
+    "year": 2013,
+    "journal": "Molecular Biology and Evolution",
+    "doi_or_url": "https://doi.org/10.1093/molbev/mst010",
+    "citation_count": 49426,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2105685140",
+    "title": "The electronic properties of graphene",
+    "authors": [
+      "A. H. Castro Neto",
+      "F. Guinea",
+      "N. M. R. Peres",
+      "Kostya S. Novoselov",
+      "A. K. Ge\u01d0m"
+    ],
+    "year": 2009,
+    "journal": "Reviews of Modern Physics",
+    "doi_or_url": "https://doi.org/10.1103/revmodphys.81.109",
+    "citation_count": 24807,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2073832139",
+    "title": "Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant",
+    "authors": [
+      "Adam G. Riess",
+      "A. V. Filippenko",
+      "P. Challis",
+      "A. Clocchiatti",
+      "Alan H. Diercks",
+      "P. Garnavich",
+      "Ron Gilliland",
+      "Craig J. Hogan",
+      "Saurabh W. Jha",
+      "R. Kirshner",
+      "B. Leibundgut",
+      "M. M. Phillips"
+    ],
+    "year": 1998,
+    "journal": "The Astronomical Journal",
+    "doi_or_url": "https://doi.org/10.1086/300499",
+    "citation_count": 19689,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2099085143",
+    "title": "Second-generation PLINK: rising to the challenge of larger and richer datasets",
+    "authors": [
+      "Christopher Chang",
+      "Carson C. Chow",
+      "Laurent CAM Tellier",
+      "Shashaank Vattikuti",
+      "Shaun Purcell",
+      "James J. Lee"
+    ],
+    "year": 2015,
+    "journal": "GigaScience",
+    "doi_or_url": "https://doi.org/10.1186/s13742-015-0047-8",
+    "citation_count": 14304,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1992419399",
+    "title": "Data clustering",
+    "authors": [
+      "Anil K. Jain",
+      "M. Narasimha Murty",
+      "Patrick J. Flynn"
+    ],
+    "year": 1999,
+    "journal": "ACM Computing Surveys",
+    "doi_or_url": "https://doi.org/10.1145/331499.331504",
+    "citation_count": 13254,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2157917411",
+    "title": "The Sloan Digital Sky Survey: Technical Summary",
+    "authors": [
+      "Donald G. York",
+      "Jennifer Adelman",
+      "John E. Anderson",
+      "Scott F. Anderson",
+      "James Annis",
+      "Neta A. Bahcall",
+      "Jon Arne Bakken",
+      "Robert H. Barkhouser",
+      "Steven Bastian",
+      "Eileen Berman",
+      "William N. Boroski",
+      "S. Bracker"
+    ],
+    "year": 2000,
+    "journal": "The Astronomical Journal",
+    "doi_or_url": "https://doi.org/10.1086/301513",
+    "citation_count": 10550,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2060003036",
+    "title": "A Universal Density Profile from Hierarchical Clustering",
+    "authors": [
+      "Julio F. Navarro",
+      "Carlos S. Frenk",
+      "Simon D. M. White"
+    ],
+    "year": 1997,
+    "journal": "The Astrophysical Journal",
+    "doi_or_url": "https://doi.org/10.1086/304888",
+    "citation_count": 9944,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2063978378",
+    "title": "Least angle regression",
+    "authors": [
+      "Bradley Efron",
+      "Trevor Hastie",
+      "Iain M. Johnstone",
+      "Robert Tibshirani"
+    ],
+    "year": 2004,
+    "journal": "The Annals of Statistics",
+    "doi_or_url": "https://doi.org/10.1214/009053604000000067",
+    "citation_count": 9530,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2163197622",
+    "title": "Galactic Stellar and Substellar Initial Mass Function",
+    "authors": [
+      "Gilles Chabrier"
+    ],
+    "year": 2003,
+    "journal": "Publications of the Astronomical Society of the Pacific",
+    "doi_or_url": "https://doi.org/10.1086/376392",
+    "citation_count": 9095,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2147875900",
+    "title": "SEVEN-YEARWILKINSON MICROWAVE ANISOTROPY PROBE(WMAP) OBSERVATIONS: COSMOLOGICAL INTERPRETATION",
+    "authors": [
+      "Eiichiro Komatsu",
+      "Kendrick M. Smith",
+      "J. Dunkley",
+      "C. L. Bennett",
+      "B. Gold",
+      "G. Hinshaw",
+      "N. Jarosik",
+      "D. Larson",
+      "M. R. Nolta",
+      "Lyman A. Page",
+      "David N. Spergel",
+      "M. Halpern"
+    ],
+    "year": 2011,
+    "journal": "The Astrophysical Journal Supplement Series",
+    "doi_or_url": "https://doi.org/10.1088/0067-0049/192/2/18",
+    "citation_count": 8884,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2899736836",
+    "title": "Global, regional, and national age-sex-specific mortality for 282 causes of death in 195 countries and territories, 1980\u20132017: a systematic analysis for the Global Burden of Disease Study 2017",
+    "authors": [
+      "Gregory A. Roth",
+      "Degu Abate",
+      "Kalkidan Hassen Abate",
+      "Solom\u00f3n Mequanente Abay",
+      "Cristiana Abbafati",
+      "Nooshin Abbasi",
+      "Hedayat Abbastabar",
+      "Foad Abd-Allah",
+      "Jemal Abdela",
+      "Ahmed Abdelalim",
+      "Ibrahim Abdollahpour",
+      "Rizwan Suliankatchi Abdulkader"
+    ],
+    "year": 2018,
+    "journal": "The Lancet",
+    "doi_or_url": "https://doi.org/10.1016/s0140-6736(18)32203-7",
+    "citation_count": 8748,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3038067977",
+    "title": "Quantum cryptography",
+    "authors": [
+      "Nicolas Gisin",
+      "G. Ribordy",
+      "Wolfgang Tittel",
+      "Hugo Zbinden"
+    ],
+    "year": 2002,
+    "journal": "Reviews of Modern Physics",
+    "doi_or_url": "https://doi.org/10.1103/revmodphys.74.145",
+    "citation_count": 8457,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2171777347",
+    "title": "A map of human genome variation from population-scale sequencing",
+    "authors": [
+      "Richard Durbin",
+      "John Burton",
+      "David M. Carter",
+      "Carol Churcher",
+      "Coffey Ak",
+      "Anthony Cox",
+      "A Palotie",
+      "Michael Quail",
+      "Tom Skelly",
+      "James Stalker",
+      "Harold P. Swerdlow",
+      "Daniel Turner"
+    ],
+    "year": 2010,
+    "journal": "Nature",
+    "doi_or_url": "https://doi.org/10.1038/nature09534",
+    "citation_count": 8121,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2103317434",
+    "title": "EFFECTS OF BIODIVERSITY ON ECOSYSTEM FUNCTIONING: A CONSENSUS OF CURRENT KNOWLEDGE",
+    "authors": [
+      "David U. Hooper",
+      "F. Stuart Chapin",
+      "John J. Ewel",
+      "Andy Hector",
+      "Pablo Inchausti",
+      "Sandra Lavorel",
+      "John H. Lawton",
+      "David M. Lodge",
+      "Michel Loreau",
+      "Shahid Naeem",
+      "Bernhard Schmid",
+      "Heikki Set\u00e4l\u00e4"
+    ],
+    "year": 2005,
+    "journal": "Ecological Monographs",
+    "doi_or_url": "https://doi.org/10.1890/04-0922",
+    "citation_count": 7988,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2123341385",
+    "title": "The Fusiform Face Area: A Module in Human Extrastriate Cortex Specialized for Face Perception",
+    "authors": [
+      "Nancy Kanwisher",
+      "Josh H. McDermott",
+      "Marvin M. Chun"
+    ],
+    "year": 1997,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.17-11-04302.1997",
+    "citation_count": 7983,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3140854437",
+    "title": "Review of deep learning: concepts, CNN architectures, challenges, applications, future directions",
+    "authors": [
+      "Laith Alzubaidi",
+      "Jinglan Zhang",
+      "Amjad J. Humaidi",
+      "Ayad Q. Al-Dujaili",
+      "Ye Duan",
+      "Omran Al-Shamma",
+      "Jos\u00e9 Santamar\u00eda",
+      "Mohammed A. Fadhel",
+      "Muthana Al\u2010Amidie",
+      "Laith Farhan"
+    ],
+    "year": 2021,
+    "journal": "Journal Of Big Data",
+    "doi_or_url": "https://doi.org/10.1186/s40537-021-00444-8",
+    "citation_count": 7809,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2171165037",
+    "title": "Guidelines for the Early Management of Patients With Acute Ischemic Stroke",
+    "authors": [
+      "Edward C. Jauch",
+      "Jeffrey L. Saver",
+      "Harold P. Adams",
+      "Askiel Bruno",
+      "John J. Connors",
+      "Bart M. Demaerschalk",
+      "Pooja Khatri",
+      "Paul W. McMullan",
+      "Adnan I. Qureshi",
+      "Kenneth Rosenfield",
+      "Phillip Scott",
+      "Debbie Summers"
+    ],
+    "year": 2013,
+    "journal": "Stroke",
+    "doi_or_url": "https://doi.org/10.1161/str.0b013e318284056a",
+    "citation_count": 7672,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2577537660",
+    "title": "Stan : A Probabilistic Programming Language",
+    "authors": [
+      "Bob Carpenter",
+      "Andrew Gelman",
+      "Matthew D. Hoffman",
+      "Daniel C. Lee",
+      "Ben Goodrich",
+      "Michael Betancourt",
+      "Marcus A. Brubaker",
+      "Jiqiang Guo",
+      "Peter Li",
+      "Allen Riddell"
+    ],
+    "year": 2017,
+    "journal": "Journal of Statistical Software",
+    "doi_or_url": "https://doi.org/10.18637/jss.v076.i01",
+    "citation_count": 7525,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2028979275",
+    "title": "A New Vertical Diffusion Package with an Explicit Treatment of Entrainment Processes",
+    "authors": [
+      "Song-You Hong",
+      "Yign Noh",
+      "Jimy Dudhia"
+    ],
+    "year": 2006,
+    "journal": "Monthly Weather Review",
+    "doi_or_url": "https://doi.org/10.1175/mwr3199.1",
+    "citation_count": 7414,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2024046085",
+    "title": "Additive logistic regression: a statistical view of boosting (With discussion and a rejoinder by the authors)",
+    "authors": [
+      "Jerome H. Friedman",
+      "Trevor Hastie",
+      "Robert Tibshirani"
+    ],
+    "year": 2000,
+    "journal": "The Annals of Statistics",
+    "doi_or_url": "https://doi.org/10.1214/aos/1016218223",
+    "citation_count": 6983,
+    "is_high_impact": false,
+    "open_access": false,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2166667242",
+    "title": "The magical number 4 in short-term memory: A reconsideration of mental storage capacity",
+    "authors": [
+      "Nelson Cowan"
+    ],
+    "year": 2001,
+    "journal": "Behavioral and Brain Sciences",
+    "doi_or_url": "https://doi.org/10.1017/s0140525x01003922",
+    "citation_count": 6879,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2890167612",
+    "title": "Nano based drug delivery systems: recent developments and future prospects",
+    "authors": [
+      "Jayanta Kumar Patra",
+      "Gitishree Das",
+      "Leonardo Fernandes Fraceto",
+      "Estef\u00e2nia Vangelie Ramos Campos",
+      "Mar\u00eda del Pilar Rodr\u00edguez-Torres",
+      "Laura Susana Acosta\u2010Torres",
+      "L.A. D\u0131\u0301az-Torres",
+      "Renato Grillo",
+      "Mallappa Kumara Swamy",
+      "Shivesh Sharma",
+      "Solomon Habtemariam",
+      "Han-Seung Shin"
+    ],
+    "year": 2018,
+    "journal": "Journal of Nanobiotechnology",
+    "doi_or_url": "https://doi.org/10.1186/s12951-018-0392-8",
+    "citation_count": 6656,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4298826872",
+    "title": "MICE: Multivariate Imputation by Chained Equations in R",
+    "authors": [
+      "Stef van Buuren",
+      "Karin Groothuis\u2010Oudshoorn"
+    ],
+    "year": 2010,
+    "journal": "University of Twente Research Information",
+    "doi_or_url": "https://openalex.org/W4298826872",
+    "citation_count": 6250,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2746553466",
+    "title": "Deep Reinforcement Learning with Double Q-Learning",
+    "authors": [
+      "Hado van Hasselt",
+      "Arthur Guez",
+      "David Silver"
+    ],
+    "year": 2016,
+    "journal": "Unknown",
+    "doi_or_url": "https://doi.org/10.1609/aaai.v30i1.10295",
+    "citation_count": 6249,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2092144432",
+    "title": "Reaction-rate theory: fifty years after Kramers",
+    "authors": [
+      "Peter H\u00e4nggi",
+      "Peter Talkner",
+      "Michal Borkovec"
+    ],
+    "year": 1990,
+    "journal": "Reviews of Modern Physics",
+    "doi_or_url": "https://doi.org/10.1103/revmodphys.62.251",
+    "citation_count": 6189,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2153791616",
+    "title": "Whatever next? Predictive brains, situated agents, and the future of cognitive science",
+    "authors": [
+      "Andy Clark"
+    ],
+    "year": 2013,
+    "journal": "Behavioral and Brain Sciences",
+    "doi_or_url": "https://doi.org/10.1017/s0140525x12000477",
+    "citation_count": 6052,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2752326209",
+    "title": "Guidelines for the use and interpretation of assays for monitoring autophagy (3rd edition)",
+    "authors": [
+      "Daniel J. Klionsky",
+      "Kotb Abdelmohsen",
+      "Akihisa Abe",
+      "Md. Joynal Abedin",
+      "Hagai Abeliovich",
+      "Abraham Acevedo\u2010Arozena",
+      "Hiroaki Adachi",
+      "Christopher M. Adams",
+      "Peter D. Adams",
+      "Khosrow Adeli",
+      "Peter J. Adhihetty",
+      "Sharon G. Adler"
+    ],
+    "year": 2016,
+    "journal": "Autophagy",
+    "doi_or_url": "https://doi.org/10.1080/15548627.2015.1100356",
+    "citation_count": 6022,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2606397457",
+    "title": "Layer-dependent ferromagnetism in a van der Waals crystal down to the monolayer limit",
+    "authors": [
+      "Bevin Huang",
+      "Genevieve Clark",
+      "Efr\u00e9n Navarro\u2010Moratalla",
+      "Dahlia Klein",
+      "Ran Cheng",
+      "Kyle L. Seyler",
+      "Ding Zhong",
+      "Emma Schmidgall",
+      "Michael A. McGuire",
+      "David Cobden",
+      "Wang Yao",
+      "Di Xiao"
+    ],
+    "year": 2017,
+    "journal": "Nature",
+    "doi_or_url": "https://doi.org/10.1038/nature22391",
+    "citation_count": 5992,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2132764286",
+    "title": "The quantum internet",
+    "authors": [
+      "H. J. Kimble"
+    ],
+    "year": 2008,
+    "journal": "Nature",
+    "doi_or_url": "https://doi.org/10.1038/nature07127",
+    "citation_count": 5970,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1985252301",
+    "title": "Density-functional method for nonequilibrium electron transport",
+    "authors": [
+      "Mads Brandbyge",
+      "Jos\u00e9-Lu\u00eds Mozos",
+      "Pablo Ordej\u00f3n",
+      "Jeremy Taylor",
+      "Kurt Stokbro"
+    ],
+    "year": 2002,
+    "journal": "Physical review. B, Condensed matter",
+    "doi_or_url": "https://doi.org/10.1103/physrevb.65.165401",
+    "citation_count": 5814,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3037306418",
+    "title": "Cavity optomechanics",
+    "authors": [
+      "Markus Aspelmeyer",
+      "Tobias J. Kippenberg",
+      "Florian Marquardt"
+    ],
+    "year": 2014,
+    "journal": "Reviews of Modern Physics",
+    "doi_or_url": "https://doi.org/10.1103/revmodphys.86.1391",
+    "citation_count": 5759,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2160253850",
+    "title": "FIVE-YEARWILKINSON MICROWAVE ANISOTROPY PROBEOBSERVATIONS: COSMOLOGICAL INTERPRETATION",
+    "authors": [
+      "Eiichiro Komatsu",
+      "J. Dunkley",
+      "Michael R. Nolta",
+      "C. L. Bennett",
+      "B. Gold",
+      "G. Hinshaw",
+      "N. Jarosik",
+      "D. Larson",
+      "M. Limon",
+      "Lyman A. Page",
+      "David N. Spergel",
+      "M. Halpern"
+    ],
+    "year": 2009,
+    "journal": "The Astrophysical Journal Supplement Series",
+    "doi_or_url": "https://doi.org/10.1088/0067-0049/180/2/330",
+    "citation_count": 5734,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2086561953",
+    "title": "ViennaRNA Package 2.0",
+    "authors": [
+      "Ronny Lorenz",
+      "Stephan H Bernhart",
+      "Christian H\u00f6ner zu Siederdissen",
+      "Hakim Tafer",
+      "Christoph Flamm",
+      "Peter F. Stadler",
+      "Ivo L. Hofacker"
+    ],
+    "year": 2011,
+    "journal": "Algorithms for Molecular Biology",
+    "doi_or_url": "https://doi.org/10.1186/1748-7188-6-26",
+    "citation_count": 5504,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2162677524",
+    "title": "Pseudocapacitive oxide materials for high-rate electrochemical energy storage",
+    "authors": [
+      "Veronica Augustyn",
+      "Patrice Simon",
+      "Bruce Dunn"
+    ],
+    "year": 2014,
+    "journal": "Energy & Environmental Science",
+    "doi_or_url": "https://doi.org/10.1039/c3ee44164d",
+    "citation_count": 5485,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4211101250",
+    "title": "Attosecond physics",
+    "authors": [
+      "Ferenc Krausz",
+      "Misha Ivanov"
+    ],
+    "year": 2009,
+    "journal": "Reviews of Modern Physics",
+    "doi_or_url": "https://doi.org/10.1103/revmodphys.81.163",
+    "citation_count": 5392,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4211019631",
+    "title": "Stochastic resonance",
+    "authors": [
+      "L. Gammaitoni",
+      "Peter H\u00e4nggi",
+      "Peter Jung",
+      "Fabio Marchesoni"
+    ],
+    "year": 1998,
+    "journal": "Reviews of Modern Physics",
+    "doi_or_url": "https://doi.org/10.1103/revmodphys.70.223",
+    "citation_count": 5386,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1934094702",
+    "title": "The consensus molecular subtypes of colorectal cancer",
+    "authors": [
+      "Justin Guinney",
+      "Rodrigo Dienstmann",
+      "Xin Wang",
+      "Aur\u00e9lien de Reyni\u00e8s",
+      "Andreas Schlicker",
+      "Charlotte Soneson",
+      "La\u00ebtitia Marisa",
+      "Paul Roepman",
+      "Gift Nyamundanda",
+      "Paolo Angelino",
+      "Brian M. Bot",
+      "Jeffrey S. Morris"
+    ],
+    "year": 2015,
+    "journal": "Nature Medicine",
+    "doi_or_url": "https://doi.org/10.1038/nm.3967",
+    "citation_count": 5353,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2603442821",
+    "title": "Sodium-ion batteries: present and future",
+    "authors": [
+      "Jang\u2010Yeon Hwang",
+      "Seung\u2010Taek Myung",
+      "Yang-Kook Sun"
+    ],
+    "year": 2017,
+    "journal": "Chemical Society Reviews",
+    "doi_or_url": "https://doi.org/10.1039/c6cs00776g",
+    "citation_count": 5240,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4211130665",
+    "title": "Rethinking Rumination",
+    "authors": [
+      "Susan Nolen\u2013Hoeksema",
+      "Blair E. Wisco",
+      "Sonja Lyubomirsky"
+    ],
+    "year": 2008,
+    "journal": "Perspectives on Psychological Science",
+    "doi_or_url": "https://doi.org/10.1111/j.1745-6924.2008.00088.x",
+    "citation_count": 5121,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2899773405",
+    "title": "Global, regional, and national comparative risk assessment of 84 behavioural, environmental and occupational, and metabolic risks or clusters of risks for 195 countries and territories, 1990\u20132017: a systematic analysis for the Global Burden of Disease Study 2017",
+    "authors": [
+      "Jeffrey D Stanaway",
+      "Ashkan Afshin",
+      "Emmanuela Gakidou",
+      "Stephen S Lim",
+      "Degu Abate",
+      "Kalkidan Hassen Abate",
+      "Cristiana Abbafati",
+      "Nooshin Abbasi",
+      "Hedayat Abbastabar",
+      "Foad Abd-Allah",
+      "Jemal Abdela",
+      "Ahmed Abdelalim"
+    ],
+    "year": 2018,
+    "journal": "The Lancet",
+    "doi_or_url": "https://doi.org/10.1016/s0140-6736(18)32225-6",
+    "citation_count": 5075,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2098292174",
+    "title": "Luminescent metal\u2013organic frameworks",
+    "authors": [
+      "Mark D. Allendorf",
+      "Christina A. Bauer",
+      "Raghu Bhakta",
+      "Ronald J. T. Houk"
+    ],
+    "year": 2009,
+    "journal": "Chemical Society Reviews",
+    "doi_or_url": "https://doi.org/10.1039/b802352m",
+    "citation_count": 4938,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1979115990",
+    "title": "Unified Schemes for Radio-Loud Active Galactic Nuclei",
+    "authors": [
+      "C. M. Urry",
+      "P. Padovani"
+    ],
+    "year": 1995,
+    "journal": "Publications of the Astronomical Society of the Pacific",
+    "doi_or_url": "https://doi.org/10.1086/133630",
+    "citation_count": 4899,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2761275051",
+    "title": "Genetic effects on gene expression across human tissues",
+    "authors": [
+      "Fran\u00e7ois Aguet",
+      "Ayellet V. Segr\u00e8",
+      "Beryl B. Cummings",
+      "Ellen Gelfand",
+      "Kane Hadley",
+      "Katherine H. Huang",
+      "Monkol Lek",
+      "Xiao Li",
+      "Jared L. Nedzel",
+      "Duyen Y. Nguyen",
+      "Michael S. Noble",
+      "Timothy J. Sullivan"
+    ],
+    "year": 2017,
+    "journal": "Nature",
+    "doi_or_url": "https://doi.org/10.1038/nature24277",
+    "citation_count": 4727,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1787224781",
+    "title": "On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation",
+    "authors": [
+      "Sebastian Bach",
+      "Alexander Binder",
+      "Gr\u00e9goire Montavon",
+      "Frederick Klauschen",
+      "Klaus\u2010Robert M\u00fcller",
+      "Wojciech Samek"
+    ],
+    "year": 2015,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0130140",
+    "citation_count": 4670,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2611395271",
+    "title": "Weyl and Dirac semimetals in three-dimensional solids",
+    "authors": [
+      "N. P. Armitage",
+      "E. J. Mel\u00e9",
+      "Ashvin Vishwanath"
+    ],
+    "year": 2018,
+    "journal": "Reviews of Modern Physics",
+    "doi_or_url": "https://doi.org/10.1103/revmodphys.90.015001",
+    "citation_count": 4626,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2176956584",
+    "title": "Global Precipitation: A 17-Year Monthly Analysis Based on Gauge Observations, Satellite Estimates, and Numerical Model Outputs",
+    "authors": [
+      "Pingping Xie",
+      "Phillip A. Arkin"
+    ],
+    "year": 1997,
+    "journal": "Bulletin of the American Meteorological Society",
+    "doi_or_url": "https://doi.org/10.1175/1520-0477(1997)078<2539:gpayma>2.0.co;2",
+    "citation_count": 4405,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2159929956",
+    "title": "Mapping the Structural Core of Human Cerebral Cortex",
+    "authors": [
+      "Patric Hagmann",
+      "Leila Cammoun",
+      "Xavier Gigandet",
+      "Reto Meuli",
+      "Christopher J. Honey",
+      "Van J. Wedeen",
+      "Olaf Sporns"
+    ],
+    "year": 2008,
+    "journal": "PLoS Biology",
+    "doi_or_url": "https://doi.org/10.1371/journal.pbio.0060159",
+    "citation_count": 4392,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2140477756",
+    "title": "A long-term numerical solution for the insolation quantities of the Earth",
+    "authors": [
+      "J. Laskar",
+      "Philippe Robutel",
+      "F. Joutel",
+      "Micka\u00ebl Gastineau",
+      "A. C. M. Correia",
+      "B. Levrard"
+    ],
+    "year": 2004,
+    "journal": "Astronomy and Astrophysics",
+    "doi_or_url": "https://doi.org/10.1051/0004-6361:20041335",
+    "citation_count": 4303,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2010417927",
+    "title": "Senescence-Associated Secretory Phenotypes Reveal Cell-Nonautonomous Functions of Oncogenic RAS and the p53 Tumor Suppressor",
+    "authors": [
+      "Jean\u2010Philippe Copp\u00e9",
+      "Christopher K. Patil",
+      "Fran\u00e7is Rodier",
+      "Yu Sun",
+      "Denise P. Mu\u00f1oz",
+      "Joshua C. Goldstein",
+      "Peter S. Nelson",
+      "Pierre\u2010Yves Desprez",
+      "Judith Campisi"
+    ],
+    "year": 2008,
+    "journal": "Unknown",
+    "doi_or_url": "https://doi.org/10.1371/journal.pbio.0060301",
+    "citation_count": 4191,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2092939357",
+    "title": "Estimating mutual information",
+    "authors": [
+      "Alexander Kraskov",
+      "Harald St\u00f6gbauer",
+      "Peter Grassberger"
+    ],
+    "year": 2004,
+    "journal": "Physical Review E",
+    "doi_or_url": "https://doi.org/10.1103/physreve.69.066138",
+    "citation_count": 4190,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2033617297",
+    "title": "Microglia Sculpt Postnatal Neural Circuits in an Activity and Complement-Dependent Manner",
+    "authors": [
+      "Dorothy P. Schafer",
+      "Emily K. Lehrman",
+      "Amanda G. Kautzman",
+      "Ryuta Koyama",
+      "Alan R. Mardinly",
+      "Ryo Yamasaki",
+      "Richard M. Ransohoff",
+      "Michael E. Greenberg",
+      "Ben A. Barres",
+      "Beth Stevens"
+    ],
+    "year": 2012,
+    "journal": "Neuron",
+    "doi_or_url": "https://doi.org/10.1016/j.neuron.2012.03.026",
+    "citation_count": 4175,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1990869665",
+    "title": "Recent developments in Geant4",
+    "authors": [
+      "John E. Allison",
+      "K. Amako",
+      "J. Apostolakis",
+      "P. Arce",
+      "M. Asai",
+      "Tsukasa Aso",
+      "E. Bagli",
+      "A. Bagulya",
+      "Sw. Banerjee",
+      "Guy Barrand",
+      "Belinda R. Beck",
+      "A. Bogdanov"
+    ],
+    "year": 2016,
+    "journal": "Nuclear Instruments and Methods in Physics Research Section A Accelerators Spectrometers Detectors and Associated Equipment",
+    "doi_or_url": "https://doi.org/10.1016/j.nima.2016.06.125",
+    "citation_count": 4173,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2167277890",
+    "title": "THE LARGE AREA TELESCOPE ON THE FERMI GAMMA-RAY SPACE TELESCOPE MISSION",
+    "authors": [
+      "W. B. Atwood",
+      "A. A. Abdo",
+      "M. Ackermann",
+      "W. E. Althouse",
+      "B. Anderson",
+      "M. Axelsson",
+      "L. Baldini",
+      "J. Ballet",
+      "D. L. Band",
+      "G. Barbiellini",
+      "J. Bartelt",
+      "D. Bastieri"
+    ],
+    "year": 2009,
+    "journal": "The Astrophysical Journal",
+    "doi_or_url": "https://doi.org/10.1088/0004-637x/697/2/1071",
+    "citation_count": 4158,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2053499780",
+    "title": "Electronic excitations: density-functional versus many-body Green\u2019s-function approaches",
+    "authors": [
+      "Giovanni Onida",
+      "Lucia Reining",
+      "\u00c1ngel Rubio"
+    ],
+    "year": 2002,
+    "journal": "Reviews of Modern Physics",
+    "doi_or_url": "https://doi.org/10.1103/revmodphys.74.601",
+    "citation_count": 4147,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2169918686",
+    "title": "MEG and EEG data analysis with MNE-Python",
+    "authors": [
+      "Alexandre Gramfort"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnins.2013.00267",
+    "citation_count": 4126,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W621251951",
+    "title": "Understanding Bland Altman analysis",
+    "authors": [
+      "Davide Giavarina"
+    ],
+    "year": 2015,
+    "journal": "Biochemia Medica",
+    "doi_or_url": "https://doi.org/10.11613/bm.2015.015",
+    "citation_count": 4069,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2063754213",
+    "title": "On the Absorption of X\u2010Rays in the Interstellar Medium",
+    "authors": [
+      "J. Wilms",
+      "A. Allen",
+      "R. McCray"
+    ],
+    "year": 2000,
+    "journal": "The Astrophysical Journal",
+    "doi_or_url": "https://doi.org/10.1086/317016",
+    "citation_count": 4005,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2123076672",
+    "title": "f(R) Theories",
+    "authors": [
+      "Antonio De Felice",
+      "Shinji Tsujikawa"
+    ],
+    "year": 2010,
+    "journal": "Living Reviews in Relativity",
+    "doi_or_url": "https://doi.org/10.12942/lrr-2010-3",
+    "citation_count": 3892,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2971763914",
+    "title": "Present and Future of Surface-Enhanced Raman Scattering",
+    "authors": [
+      "Judith Langer",
+      "Dorleta Jim\u00e9nez de Aberasturi",
+      "Javier Aizpurua",
+      "Ram\u00f3n A. \u00c1lvarez\u2010Puebla",
+      "Baptiste Augui\u00e9",
+      "Jeremy J. Baumberg",
+      "Guillermo C. Bazan",
+      "Steven E. J. Bell",
+      "Anja Boisen",
+      "Alexandre G. Brolo",
+      "Jaebum Choo",
+      "Dana Cialla\u2010May"
+    ],
+    "year": 2019,
+    "journal": "ACS Nano",
+    "doi_or_url": "https://doi.org/10.1021/acsnano.9b04224",
+    "citation_count": 3855,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1564553363",
+    "title": "Drug delivery and nanoparticles: Applications and hazards",
+    "authors": [
+      "de Jong"
+    ],
+    "year": 2008,
+    "journal": "International Journal of Nanomedicine",
+    "doi_or_url": "https://doi.org/10.2147/ijn.s596",
+    "citation_count": 3833,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  }
+]

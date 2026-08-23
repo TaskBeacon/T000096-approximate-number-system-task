@@ -1,0 +1,18 @@
+id: T000096
+slug: approximate-number-system-task
+title: Approximate Number System
+acquisition: behavior
+variant: baseline
+cognitive_domain: [numerical-cognition, approximate-number-system, perceptual-discrimination]
+maturity: draft
+version:
+  release_tag: v0.1.0
+contracts:
+  taps: v0.2.0
+runtime:
+  profile: psyflow
+evidence:
+  - https://doi.org/10.1038/nature07246
+  - https://doi.org/10.1073/pnas.1200196109
+  - https://doi.org/10.1016/j.cognition.2015.05.016
+maintainer: [TaskBeacon]
